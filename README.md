@@ -1,6 +1,6 @@
 [![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm HAFIZ MUHAMMAD FAKHAR UL ISLAM </h1>
+<h3 align="center">A passionate Full Stack Developer from pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📝 I regularly write on [Dev.to / Medium / Blog](https://yourblog.com)
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **03148098823f@gmail.com**
 - ⚡ Fun fact: I love to solve problems and build meaningful software
 
 ---
@@ -51,13 +51,13 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a (https://www.linkedin.com/in/hafiz-muhammad-fakhar-ul-islam-18043312b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:03148098823f@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href=https://github.com/Fakhar-ul-islma>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
