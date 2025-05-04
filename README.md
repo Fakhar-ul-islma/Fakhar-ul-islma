@@ -1,9 +1,11 @@
 [![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
-<h1 align="center">Hi 👋, I'm HAFIZ MUHAMMAD FAKHAR UL ISLAM </h1>
-<h3 align="center">A passionate Full Stack Developer from pakistan</h3>
+
+
+<h1 align="center">Hi 👋, I'm HAFIZ MUHAMMAD FAKHAR UL ISLAM</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=HAFIZ-MUHAMMAD-FAKHAR-UL-ISLAM&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -11,11 +13,10 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **MERN Stack & DevOps**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📝 I regularly write on [Dev.to / Medium / Blog](https://yourblog.com)
-- 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: **03148098823f@gmail.com**
-- ⚡ Fun fact: I love to solve problems and build meaningful software
+- 👨‍💻 I’m working with **React, Node.js, MongoDB, and JavaScript**
+- 📫 Reach me at: **03148098823f@gmail.com**
+- 💬 Ask me about anything related to full-stack web development
+- 📍 Based in **Pakistan**
 
 ---
 
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -39,26 +40,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="your stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HAFIZ-MUHAMMAD-FAKHAR-UL-ISLAM&show_icons=true&theme=github_dark" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="your streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAFIZ-MUHAMMAD-FAKHAR-UL-ISLAM&theme=dark" alt="github streak" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
 <p align="left">
-  <a (https://www.linkedin.com/in/hafiz-muhammad-fakhar-ul-islam-18043312b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hafiz-muhammad-fakhar-ul-islam-18043312b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:03148098823f@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href=https://github.com/Fakhar-ul-islma>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
+
 
